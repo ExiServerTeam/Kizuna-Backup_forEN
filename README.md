@@ -20,7 +20,7 @@ A lightweight backup plugin for [Kizuna-Eye](https://github.com/ExiServerTeam/Ki
 - **rsync** (for sync mode)
 - **SSH key-based authentication** (for sync mode)
 
-  ## Related Projects
+## Related Projects
 
 - [Kizuna-Backup LITE](https://github.com/ExiServerTeam/Kizuna-Backup_forEN) - A lightweight backup plugin for Kizuna-Eye
 
