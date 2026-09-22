@@ -174,3 +174,7 @@ Website: https://exi-server.site/
 
 Related Projects
 Kizuna-Eye - A lightweight server monitoring tool
+
+## Related Projects
+
+- [Kizuna-Backup LITE](https://github.com/ExiServerTeam/Kizuna-Backup_forEN) - A lightweight backup plugin for Kizuna-Eye
